@@ -1,0 +1,4 @@
+Juan;Rodriguez;1154;56000.0
+Jonatan;Gutierrez;1144;86000.0
+Martin;Osella;1148;86000.0
+Mario;Martinez;2144;58000.0
